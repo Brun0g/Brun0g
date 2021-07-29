@@ -1,4 +1,4 @@
-### Oiii! Eu sou o Bruno Valini
+### Olá, sou o Bruno Valini!
 
  <div>
   <a href="https://github.com/Brun0g">
