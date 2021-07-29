@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Olá, sou o Bruno Gabriel Valini! 
  <div>
   <a href="https://github.com/Brun0g">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
