@@ -1,5 +1,5 @@
 ## Welcome to my page, I'm Bruno Gabriel Valini!
- <div>
+ <div align="center">
   <a href="https://github.com/Brun0g">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun0g&layout=compact&langs_count=7&theme=dracula"/>
