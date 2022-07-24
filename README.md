@@ -1,9 +1,9 @@
 ## Welcome to my page, I'm Bruno Gabriel Valini!
 <span align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="25%"src="https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </span>
   <span align="right">
-  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun0g&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun0g&layout=compact&langs_count=7&theme=radical"/>
  </span>
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
