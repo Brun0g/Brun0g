@@ -1,6 +1,6 @@
 ## Welcome to my page, I'm Bruno Gabriel Valini!
 <span align="center">
-  <img width="50%"src="https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="35%"src="https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </span>
   <span width="50%" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun0g&layout=compact&langs_count=7&theme=radical"/>
