@@ -8,7 +8,7 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="href="https://www.codewars.com/users/Brun0g1"><img align="center"   height="50%" width="50%" src="https://www.codewars.com/users/Brun0g1/badges/large"></a>
+  <a href="https://www.codewars.com/users/Brun0g1"><img align="center"   height="50%" width="50%" src="https://www.codewars.com/users/Brun0g1/badges/large"></a>
 </div>
 
   
