@@ -5,7 +5,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Bruno, um desenvolvedor front-end em busca de conhecimento e apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://instagram.com/bruunogabriel_"><img src="https://img.shields.io/badge/-@bruunogabriel_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/bruno-gabriel-042134218/"><img src="https://img.shields.io/badge/-Bruno%230077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bruno-gabriel-042134218/"><img src="https://img.shields.io/badge/-Bruno%20Gabriel%20_0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:brunogabriel3331@gmail.com"><img src="https://img.shields.io/badge/-brunogabriel3331@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
