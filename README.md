@@ -10,10 +10,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 11 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Transformice. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
-- 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele. Desde então, crio conteúdo para o Instagram (@dicasparadevs) e para o YouTube. Fico extremamente feliz quando consigo impactar uma pessoa positivamente, e, por isso, gosto tanto de fazer isso.
+- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 10 anos de idade, quando achava que era hacker abrindo o cmd e desligando os computadores da escola! kk. Depois fui para o mundo dos games, aprendendo inglês na marra no RPG MAKER (um aplicativo que faz jogos de RPG, bem antigo), sempre gostei dessa parte de editor/criador/debugador, depois que fui crescendo fui para coisas mais complexas e minha primeira linguagem usada foi C++ com o UNREAL ENGINE e o ARMA 3 EDITOR, desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
+
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por milsim e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça!
+
+-  &nbsp; Sou apaixonado por milsim e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça!
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
