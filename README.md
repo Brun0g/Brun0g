@@ -1,9 +1,6 @@
 
-  <a href="https://www.linkedin.com/in/bruno-gabriel-042134218/" target="_blank"><img src="" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/brun0g/brun0g/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 
 <h1>👋 &nbsp;Olá, eu sou o Bruno, um desenvolvedor front-end em busca de conhecimento e apaixonado pelo que faz!</h1>
 <p align="center">
@@ -28,3 +25,4 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
+![Snake animation](https://github.com/brun0g/brun0g/blob/output/github-contribution-grid-snake.svg)
