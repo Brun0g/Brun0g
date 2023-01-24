@@ -13,7 +13,7 @@
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 10 anos de idade, quando achava que era hacker abrindo o cmd e desligando os computadores da escola! kk. Depois fui para o mundo dos games, aprendendo inglês na marra no RPG MAKER (um aplicativo que faz jogos de RPG, bem antigo), sempre gostei dessa parte de editor/criador/debugador, depois que fui crescendo fui para coisas mais complexas e minha primeira linguagem usada foi C++ com o UNREAL ENGINE e o ARMA 3 EDITOR, desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
 
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native)
 
 -  &nbsp; Sou apaixonado por milsim e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça!
 
