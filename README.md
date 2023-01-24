@@ -1,4 +1,4 @@
-## Welcome to my page, I'm Bruno Gabriel Valini!
+/* ## Welcome to my page, I'm Bruno Gabriel Valini!
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun0g&layout=compact&langs_count=7&theme=radical"/>
@@ -23,3 +23,4 @@
   ![Snake animation](https://github.com/brun0g/brun0g/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+*/
