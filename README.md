@@ -6,6 +6,7 @@
 <p align="center">
 <a href="https://instagram.com/bruunogabriel_"><img src="https://img.shields.io/badge/-@bruunogabriel_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/bruno-gabriel-042134218/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:brunogabriel3331@gmail.com"><img src="https://img.shields.io/badge/-brunogabriel3331@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
@@ -24,5 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+
+![Bruno Valini GitHub Stats](https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&theme=dracula)
 
 ![Snake animation](https://github.com/brun0g/brun0g/blob/output/github-contribution-grid-snake.svg)
