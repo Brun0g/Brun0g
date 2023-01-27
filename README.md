@@ -28,4 +28,3 @@
 
 ![Bruno Valini GitHub Stats](https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&theme=dracula)
 
-![Snake animation](https://github.com/brun0g/brun0g/blob/output/github-contribution-grid-snake.svg)
