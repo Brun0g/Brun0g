@@ -1,7 +1,4 @@
 
- 
-
-
 <h1>👋 &nbsp;Olá, eu sou o Bruno, um desenvolvedor em busca de conhecimento e apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://instagram.com/bruunogabriel_"><img src="https://img.shields.io/badge/-@bruunogabriel_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -15,7 +12,6 @@
 
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native)
 
--  &nbsp; Sou apaixonado por milsim e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça!
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
