@@ -26,6 +26,7 @@
 </div>
 
 
+<a src="https://www.codewars.com/users/Brun0g1/badges/large"a/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
