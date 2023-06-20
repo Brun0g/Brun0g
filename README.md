@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/bruno-gabriel-042134218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/bruunogabriel_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:brunogabriel3331@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
@@ -24,20 +25,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Vallini GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun0g&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-<a target="_blank" href="https://www.codewars.com/users/Brun0g1"><img width=40% src="https://www.codewars.com/users/Brun0g1/badges/large"/><a/>
-
-
+<a width= "20%"target="_blank" href="https://www.codewars.com/users/Brun0g1"><img width=40% src="https://www.codewars.com/users/Brun0g1/badges/micro"/><a/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-
-<div align="center">
-
-
-  
-<div align="left">
-<a href=></a>
-<br><br>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=STEAM.Ike.Broflovski;)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=STEAM.Ike.Broflovski;)](https://git.io/typing-svg)
