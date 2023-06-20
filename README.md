@@ -1,5 +1,5 @@
 
-<h1>👋 &nbsp;Olá, eu sou o Bruno, um desenvolvedor em busca de conhecimento e apaixonado pelo que faz!</h1>
+<h1> &nbsp;Olá, eu sou o Bruno, um desenvolvedor em busca de conhecimento e apaixonado pelo que faz! </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/bruno-gabriel-042134218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/bruunogabriel_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
