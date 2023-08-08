@@ -2,7 +2,7 @@
 <h1> &nbsp;Olá, eu sou o Bruno!</h1>
 
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+
 <div>
 <p></pp>- 👨🏻‍💻 &nbsp;Eu tive meu primeiro contato com linhas de código aos 10 anos de idade, quando achava que era hacker abrindo o cmd e desligando os computadores da escola! kk. Depois fui para o mundo dos games, aprendendo inglês na marra no RPG MAKER (um aplicativo que faz jogos de RPG, bem antigo), sempre gostei dessa parte de editor/criador/debugador, depois que fui crescendo fui para coisas mais complexas e minha primeira linguagem usada foi C++ com o UNREAL ENGINE e o ARMA 3 EDITOR, desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
 </p>  
