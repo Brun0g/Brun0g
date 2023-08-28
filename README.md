@@ -2,7 +2,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=900&size=30&pause=1000&color=00FF00&width=435&lines=Olá, +meu+nome+é+Bruno!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
 </div>
 <div >
-<p>👨🏻‍💻 &nbsp;Eu tive meu primeiro contato com linhas de código aos 10 anos de idade, quando achava que era hacker abrindo o cmd e desligando os computadores da escola! kk. Depois fui para o mundo dos games, aprendendo inglês na marra no RPG MAKER (um aplicativo que faz jogos de RPG, bem antigo), sempre gostei dessa parte de editor/criador/debugador, depois que fui crescendo fui para coisas mais complexas e minha primeira linguagem usada foi C++ com o UNREAL ENGINE e o ARMA 3 EDITOR, desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.</p> 
+<p>
+
+💡 - Estou em transição de carreira para me tornar um Desenvolvedor de alto nível.
+
+💖- Apaixonado por lógica e desafios, obtive meu primeiro contato com linhas de código aos 14 anos de idade, quando desligava os computadores da escola pelo CMD, não satisfeito fui para o mundos dos games, aprendendo inglês na marra no RPG MAKER. 
+
+🚀 - Sempre gostei de editar/criar/debugar códigos, cresci e caminhei para desafios complexos, minha primeira linguagem usada foi C++ com a UNREAL ENGINE, desde então, decidi que queria fazer isso na minha vida — eu queria ser um programador. Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web.
+
+⭐ - Estou sempre em busca em resoluções de problemas lógicos, eficiência na experiência do usuário e SEO. Se você procura um desenvolvedor em inicio de carreira, comprometido em criar experiências digitais incríveis e que também investe em uma comunidade próspera, estou pronto para contribuir!
+
+Entre em contato comigo para saber mais sobre como posso agregar valor à sua equipe e projetos.
+ 
+
+
+
+
+. . .🚀</p> 
 <span>📚 Aluno da </span><a href="https://cubos.academy/" target="_blank"><img loading="lazy" src="https://global-uploads.webflow.com/6092ed75cac3156e208ac5e9/60930427ef6bdd04bf838d53_logo-horizontal-academy2.svg" width="160" height="18" target="_blank"></a>
 </div>
 <div align="center" >
