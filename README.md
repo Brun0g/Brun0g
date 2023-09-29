@@ -7,8 +7,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=900&size=30&pause=1000&color=00FF00&width=435&lines=Olá, +meu+nome+é+Bruno!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
 </div>
 <div>
-<p>🚀 - Sempre gostei de editar/criar/debugar códigos, cresci e caminhei para desafios complexos, minha primeira linguagem usada foi C++ com a UNREAL ENGINE, desde então, decidi que a programação estará presente na minha vida — ser um excelente programador é minha meta. Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web.</p>
-<p>⭐ - Estou sempre em busca em resoluções de problemas lógicos, eficiência na experiência do usuário e SEO. Se você procura um desenvolvedor em inicio de carreira, comprometido em criar experiências digitais incríveis e que também investe em uma comunidade próspera, estou pronto para contribuir!</p>
+🚀 - Sempre gostei de editar/criar/debugar códigos, caminhei para desafios complexos, minha primeira linguagem usada foi C++ com a UNREAL ENGINE, desde então, decidi que a programação estará presente na minha vida — ser e viver como um "programador de alto nível" é minha meta. Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web.
+<br></br>
+⭐ - Estou sempre em busca em resoluções de problemas lógicos, eficiência na experiência do usuário e SEO. Se você procura um desenvolvedor em inicio de carreira, comprometido em criar experiências digitais incríveis e que também investe em uma comunidade próspera, estou pronto para contribuir!
 </div>
 <div align="center" >
 <h3>💻 &nbsp;Front-end:</h3><a>
