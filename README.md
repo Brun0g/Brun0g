@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=60&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=100%&section=header"/>
 
 </div>
 
@@ -48,11 +48,11 @@
   <img width="34%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun0g&layout=compact&hide_border=true&title_color=ffd700&text_color=ffd700&bg_color=00000000" />
 </div>
 <div align="center">  
-  <a width= "15%"target="_blank" href="https://www.codewars.com/users/Brun0g1"><img width=15% src="https://www.codewars.com/users/Brun0g1/badges/micro"/><a/>
+  <a target="_blank" href="https://www.codewars.com/users/Brun0g1"><img width=25% src="https://www.codewars.com/users/Brun0g1/badges/micro"/><a/>
 </div>
 
 <div align="center">  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=60&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=100%&section=footer"/>
 </div>
 
 
