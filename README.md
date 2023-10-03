@@ -50,7 +50,7 @@
 <div align="center">  
   <a target="_blank" href="https://www.codewars.com/users/Brun0g1"><img width=25% src="https://www.codewars.com/users/Brun0g1/badges/micro"/><a/>
   <br>
-  <a target="_blank" href="https://www.linkedin.com/in/bruno-gabriel-042134218/"><img height="35" width="140" title="https://www.linkedin.com/in/bruno-gabriel-042134218/" src="./img/linkedin.png">
+  <a target="_blank" href="https://www.linkedin.com/in/bruno-gabriel-042134218/"><img height="35" width="140" title="https://www.linkedin.com/in/bruno-gabriel-042134218/" src="./img/linkaaaaedin.png">
     </a>
 </div>
 
