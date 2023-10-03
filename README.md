@@ -44,12 +44,13 @@
 
 </div >
 <div align="center">  
-  <img width="45%" height="196px" src="https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&count_private=true&hide_border=true&title_color=ffd700&icon_color=ffd700&text_color=ffd700&bg_color=00000000" alt="Bruno Vallini GitHub Stats" /> 
-  <img width="34%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun0g&layout=compact&hide_border=true&title_color=ffd700&text_color=ffd700&bg_color=00000000" />
+  <img width="45%" height="45%" src="https://github-readme-stats.vercel.app/api?username=brun0g&show_icons=true&count_private=true&hide_border=true&title_color=ffd700&icon_color=ffd700&text_color=ffd700&bg_color=00000000" alt="Bruno Vallini GitHub Stats" /> 
+  <img width="35%" height="5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun0g&layout=compact&hide_border=true&title_color=ffd700&text_color=ffd700&bg_color=00000000" />
 </div>
 <div align="center">  
   <a target="_blank" href="https://www.codewars.com/users/Brun0g1"><img width=25% src="https://www.codewars.com/users/Brun0g1/badges/micro"/><a/>
   <br>
+      <br>
   <a target="_blank" href="https://www.linkedin.com/in/bruno-gabriel-042134218/"><img height="35" width="140" title="https://www.linkedin.com/in/bruno-gabriel-042134218/" src="./img/linkaaaaedin.png">
     </a>
 </div>
