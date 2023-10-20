@@ -22,15 +22,15 @@
 </a>
 <a href="#">
   <img align="center" alt="Logo do CSS3" height="50" width="60" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</a>
+<!-- </a>
   <img align="center" alt="Logo do React" height="50" width="60" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</a>
+</a> -->
 <a href="#">
   <img align="center" alt="Logo do Nodejs" height="50" width="60" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </a>
-     <a href="#">
+<!--      <a href="#">
       <img align="center" alt="Logo do Java" height="50" width="60" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    </a>
+    </a> -->
 <a href="#">
   <img align="center" alt="Logo do PostgreSQL" height="50" width="60" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </a>
