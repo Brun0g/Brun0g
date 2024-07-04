@@ -4,7 +4,7 @@
 </div>
 
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bruno;I'm+from+Brazil;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bruno;I'm+from+Brazil;I'm+a+Back-end+Developer;Be+Welcome!+ツ)
 
 
 
