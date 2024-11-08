@@ -15,15 +15,7 @@
 <a href="#">
   <img align="center" alt="Logo do Laravel" height="100" width="100" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg">
 </a>
-    
-<a href="#">
-  <a href="#">
-  <img align="center" alt="Logo do HTML5" height="50" width="60" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</a>
   
-<a href="#">
-  <img align="center" alt="Logo do CSS3" height="50" width="60" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 <!--<a href="#">
   <img align="center" alt="Logo do Nodejs" height="50" width="60" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </a> 
