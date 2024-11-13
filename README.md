@@ -11,16 +11,9 @@
 
 <div style="display: inline_block">
   <p align="center">
-    <!-- Ícones com borda e sombras para melhor contraste -->
-    <a href="#">
       <img align="center" alt="Logo do PHP" height="80" width="100" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-    </a>
-    <a href="#">
       <img align="center" alt="Logo do Laravel" height="100" width="100" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg">
-    </a>
-    <a href="#">
       <img align="center" alt="Logo do MySQL" height="50" width="60" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-    </a>
   </p>
 </div>
 
