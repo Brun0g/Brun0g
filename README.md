@@ -1,7 +1,9 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120%&section=header"/>
 </div>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=34d399&size=45&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bruno;I'm+from+Brazil;I'm+a+Back-end+Developer;Be+Welcome!+ツ)
+
 <div style="display: inline_block">
   <p align="center">
       <img align="center" alt="Logo do PHP" height="80" width="100" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
