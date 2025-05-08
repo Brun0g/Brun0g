@@ -28,8 +28,7 @@
   <a target="_blank" href="https://www.codewars.com/users/Brun0g1"><img width=25% src="https://www.codewars.com/users/Brun0g1/badges/micro"/><a/>
   <br>
       <br>
-  <a target="_blank" href="https://www.linkedin.com/in/brunovallini/"><img height="35" width="140" title="https://www.linkedin.com/in/brunovallini/" src="./img/linkaaaaedin.png">
-    </a>
+  <a target="_blank" href="https://www.linkedin.com/in/brunovallini/"><img height="35" width="140" title="https://www.linkedin.com/in/brunovallini/" src="../img/link.png"></a>
 </div>
 
 <!-- Rodapé com ondas e fundo de azul mais escuro -->
